@@ -1,0 +1,21 @@
+{
+"name":"sitha",
+"salary":30000,
+"IsManager":false,
+skills":["aws","devops","python","ansible"]
+"previouscompanies":[
+       {
+                    "name":"IBM",
+					"Location":"Pune"
+       },
+	   {
+	                "name":"HCL",
+					"Location":"Hyderabad"
+	   },
+	   {
+	                "name":"Google",
+					"Location":"Banglore"
+	   }
+                    ]
+
+}

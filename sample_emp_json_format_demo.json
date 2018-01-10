@@ -1,21 +1,22 @@
+#sample emp to show json format
 {
-"name":"sitha",
-"salary":30000,
-"IsManager":false,
-skills":["aws","devops","python","ansible"]
-"previouscompanies":[
-       {
-                    "name":"IBM",
-					"Location":"Pune"
-       },
-	   {
-	                "name":"HCL",
-					"Location":"Hyderabad"
-	   },
-	   {
-	                "name":"Google",
-					"Location":"Banglore"
-	   }
-                    ]
-
+  "name": "sitha",
+  "salary": 30000,
+  "IsManager": false,
+  "skills": [
+    "aws",
+    "devops",
+    "python",
+    "ansible"
+  ],
+  "previouscompanies": [
+    {
+      "name": "IBM",
+      "Location": "Pune"
+    },
+    {
+      "name": "HCL",
+      "Location": "Hyderabad"
+    }
+  ]
 }

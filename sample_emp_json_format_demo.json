@@ -1,5 +1,8 @@
 #sample emp to show json format
+
 {
+  "comment": "comment text goes here...",
+  "Version": "2012-10-17",
   "name": "sitha",
   "salary": 30000,
   "IsManager": false,
